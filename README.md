@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicole-gathany" alt="nicole-gathany" /></a> </p>
 
-- 🔭 I’m currently working on **A Transformative Justice app for Domestic Violence and Intimate Partner Violence**
+- 🔭 I’m currently working on **A Transformative Justice app for Domestic Violence and Intimate Partner Violence as well as a  webpage for Cruel Summer Fantasy League webpage (similar to fantasy football)**
 
 - 🌱 I’m currently learning **React Native**
 
