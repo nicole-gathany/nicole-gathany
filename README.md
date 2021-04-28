@@ -29,16 +29,16 @@
 
 <h4>Astrology App</h4>
 
-<img align="left" src="https://media.giphy.com/media/RVch6OXxUYPpL8rEdE/giphy.gif"><img>
+<p><img align="left" src="https://media.giphy.com/media/RVch6OXxUYPpL8rEdE/giphy.gif"><img></p>
 
 <h4> Aso Ebi Styles App</h4>
 
-<img align="left" src="https://media.giphy.com/media/BLFWQhRnmDBYUBmCn7/giphy.gif"><img>
+<p><img align="left" src="https://media.giphy.com/media/BLFWQhRnmDBYUBmCn7/giphy.gif"><img></p>
 
 
 <h4>Virtual Pet</h4>
 
-<img align="left" src="https://media.giphy.com/media/pcA21VXbzHSr7qPf8L/giphy.gif"><img>
+<p><img align="left" src="https://media.giphy.com/media/pcA21VXbzHSr7qPf8L/giphy.gif"><img></p>
 
 
 
