@@ -27,17 +27,17 @@
 
 <h3 align="left">Projects</h3>
 
-<h4 align="left">Astrology App</h4>
+<h4>Astrology App</h4>
 
-<p><img align="left" src="https://media.giphy.com/media/RVch6OXxUYPpL8rEdE/giphy.gif"><img></p>
+<p><img src="https://media.giphy.com/media/RVch6OXxUYPpL8rEdE/giphy.gif"><img></p>
 
-<h4 align="left"> Aso Ebi Styles App</h4>
+<h4> Aso Ebi Styles App</h4>
 
-<p><img align="left" src="https://media.giphy.com/media/BLFWQhRnmDBYUBmCn7/giphy.gif"><img></p>
+<p><img src="https://media.giphy.com/media/BLFWQhRnmDBYUBmCn7/giphy.gif"><img></p>
 
-<h4 align="left">Virtual Pet</h4>
+<h4 >Virtual Pet</h4>
 
-<p><img align="left" src="https://media.giphy.com/media/pcA21VXbzHSr7qPf8L/giphy.gif"><img></p>
+<p><img src="https://media.giphy.com/media/pcA21VXbzHSr7qPf8L/giphy.gif"><img></p>
 
 
 
