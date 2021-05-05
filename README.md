@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
-<h3 align="center">I'm backend developer from Atlanta, GA interested in using tech to acheive liberation for black and brown people (especially black and brown women, trans and gendernonconforming folks, and queer folks)!</h3>
+<h3 align="center">I'm backend developer from Atlanta, GA interested in using tech to acheive liberation for black and brown people!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicole-gathany&label=Profile%20views&color=0e75b6&style=flat" alt="nicole-gathany" /> </p>
 
