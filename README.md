@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Transformative Justice app for Domestic Violence and Intimate Partner Violence as well as a  web app for Cruel Summer Fantasy League (similar to fantasy football)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Reproductive Justice Projects**
 
