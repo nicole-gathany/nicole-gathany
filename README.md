@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Reproductive Justice](https://urge.org/author/nicole/)
 
-- 💬 Ask me about **JavaScript (including the hard parts, React, Node.js, Express.js, MySQL, MongoDB, Ionic**
+- 💬 Ask me about **JavaScript (including the hard parts), React, Node.js, Express.js, MySQL, MongoDB, Ionic**
 
 - 📫 How to reach me **nicole.gathany@gmail.com**
 
