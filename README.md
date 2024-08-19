@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicole-gathany" alt="nicole-gathany" /></a> </p>
 
-- 🔭 I’m currently working on **MournTogether** a mobile app to connect those mourning the loss of a loved one
+- 🔭 I’m currently working on **MournTogether**, a mobile app to connect those mourning the loss of a loved one
 
 - 🌱 I’m currently learning **System Design**
 
