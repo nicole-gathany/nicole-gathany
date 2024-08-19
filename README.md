@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **Reproductive Justice Projects**
+- 👯 I’m looking to collaborate on **my podcast** for **MournTogether**
 
-- 🤝 I’m looking for help with **UX Research**
+- 🤝 I’m looking for help with **UX Research** and **Marketing**
 
 - 👨‍💻 All of my projects are available at [http://nicolegathany.com/](http://nicolegathany.com/)
 
