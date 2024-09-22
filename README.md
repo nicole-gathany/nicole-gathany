@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [http://nicolegathany.com/](http://nicolegathany.com/)
 
-- 📝 I regularly write articles on [Reproductive Justice](https://urge.org/author/nicole/)
+- 📝 I regularly write articles on [Interviewing](https://nicolegathany.hashnode.dev/5-things-selling-furniture-polish-taught-me-about-telling-my-story-during-tech-interviews)
 
 - 💬 Ask me about **JavaScript (including the hard parts), React, Node.js, Express.js, MySQL, MongoDB, Ionic**
 
