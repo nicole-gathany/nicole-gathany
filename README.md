@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
-<h3 align="center">I'm fullstack developer and software engineer from Atlanta, GA!</h3>
+<h3 align="center">I'm a software engineer from Atlanta, GA!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicole-gathany&label=Profile%20views&color=0e75b6&style=flat" alt="nicole-gathany" /> </p>
 
