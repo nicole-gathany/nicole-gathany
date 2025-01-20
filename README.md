@@ -50,7 +50,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicole-gathany&show_icons=true&locale=en" alt="nicole-gathany" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicole-gathany&" alt="nicole-gathany" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=nicole-gathany" alt="nicole-gathany" />
+</p>
 
 
 
