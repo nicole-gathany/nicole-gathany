@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Interviewing](https://nicolegathany.hashnode.dev/5-things-selling-furniture-polish-taught-me-about-telling-my-story-during-tech-interviews)
 
-- 💬 Ask me about **JavaScript (including the hard parts), React, Node.js, Express.js, MySQL, MongoDB, Ionic**
+- 💬 Ask me about **JavaScript (including the hard parts), Typescript, React, Node.js, Express.js, MySQL, MongoDB**
 
 - 📫 How to reach me **nicole.gathany@gmail.com**
 
