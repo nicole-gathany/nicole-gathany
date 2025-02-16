@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [http://nicolegathany.com/](http://nicolegathany.com/)
 
-- 📝 I regularly write articles on [software engineering best practices,](https://nicolegathany.hashnode.dev/should-your-team-focus-on-technical-debt-or-new-features), [web development technologies](https://nicolegathany.hashnode.dev/graphql-vs-rest-apis), and  [career growth in tech](https://nicolegathany.hashnode.dev/5-things-selling-furniture-polish-taught-me-about-telling-my-story-during-tech-interviews) using easy-to-understand metaphors whenever I can!
+- 📝 I regularly write articles on [software engineering best practices](https://nicolegathany.hashnode.dev/should-your-team-focus-on-technical-debt-or-new-features), [web development technologies](https://nicolegathany.hashnode.dev/graphql-vs-rest-apis), and  [career growth in tech](https://nicolegathany.hashnode.dev/5-things-selling-furniture-polish-taught-me-about-telling-my-story-during-tech-interviews) using easy-to-understand metaphors whenever I can!
 
 - 💬 Ask me about **JavaScript (including the hard parts), Typescript, React, Node.js, Express.js, MySQL, MongoDB**
 
